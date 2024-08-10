@@ -1,1 +1,1 @@
-# This study will be on RactJS notes tha had taken along the projects Tha have created in 2024
+# This study will be on ReactJS notes that I have taken along with the projects I created in 2024.
